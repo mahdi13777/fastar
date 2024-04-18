@@ -1,0 +1,2 @@
+# fastar
+test new project
